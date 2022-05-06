@@ -1,2 +1,2 @@
-# Login with HTML5 AND CSS3
-![](docs/screenshot.png)
+# Aprenderemo a replicar un modelo de login . dandole estilos con CSS
+![](./img/login_form.png)
